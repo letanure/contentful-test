@@ -1,0 +1,1 @@
+export const LOAD_MOVIE_DATA = 'LOAD_MOVIE_DATA'
